@@ -1,0 +1,8 @@
+Order_ID,Customer_Name,Product,Quantity,Price,Order_Date
+1001,Asha,Laptop,1,55000,2025-01-10
+1002,Ravi,Mouse,2,500,2025-01-11
+,Neha,Keyboard,1,1500,2025-01-12
+1004,Arjun,Monitor,,12000,2025-01-13
+1005,Asha,Laptop,1,55000,2025-01-10
+1002,Ravi,Mouse,2,500,2025-01-11
+1006,Kiran,Headphones,1,,2025-01-14
